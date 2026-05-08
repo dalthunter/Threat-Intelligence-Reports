@@ -10,5 +10,5 @@
 * Section 5: Analytic Assessment  
 
 ## Intelligence Products
-- [Lazarus Group — View Report](Reports/Adversary_Report_Lazarus_Group.pdf)
-- [Scattered Spider — View Report](Reports/Adversary_Report_Scattered_Spider.pdf)
+- [Lazarus Group — View Report](reports/Adversary_Report_Lazarus_Group.pdf)
+- [Scattered Spider — View Report](reports/Adversary_Report_Scattered_Spider.pdf)
